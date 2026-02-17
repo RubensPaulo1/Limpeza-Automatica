@@ -69,5 +69,5 @@ Integração com o **Agendador de Tarefas do Windows (schtasks)**.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/RubensPaulo1/Limpeza-Automatica.git
 cd seurepositorio
